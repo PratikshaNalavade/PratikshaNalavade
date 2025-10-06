@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Java-based backend projects**
+- 🔭 I’m passionate about: **Java development,Java Backend**
 - 🌱 I’m learning **Spring Boot, Microservices, and System Design**
 - 💬 Ask me about **Java, OOP, Spring, Hibernate, REST APIs**
 - 🧠 Always exploring **clean code practices** and **scalable architecture**
