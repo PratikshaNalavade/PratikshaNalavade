@@ -5,8 +5,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m passionate about: **Java development,.NET development**
-- 🌱 I’m learning **Spring Boot, Microservices, and System Design and .NET technologies**
+- 🔭 I’m passionate about: **Java development, .NET development**
+- 🌱 I’m learning **Spring Boot, Microservices and System Design and .NET technologies**
 - 💬 Ask me about **Java, .NET, OOP, Spring, Hibernate, REST APIs**
 - 🧠 Always exploring **clean code practices** and **scalable architecture**
 - ⚡ Fun fact: I enjoy debugging almost as much as writing code
@@ -16,9 +16,10 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 #### 🧰 Frameworks & Tools:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
