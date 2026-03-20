@@ -44,9 +44,13 @@
 
 ### 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/pratikshan1907)
-[![Gmail](mailto:pratikshan1907@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+<a href="https://www.linkedin.com/in/pratikshan1907" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn"> LinkedIn
+</a>
+
+<a href="mailto:your-pratikshan1907@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/24/281/281769.png" alt="Gmail"> Gmail
+</a>
 
 ---
 
