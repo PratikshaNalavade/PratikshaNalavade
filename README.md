@@ -1,13 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Pratiksha Shrikrushna Nalavade</h1>
-<h3 align="center">Java Developer | Backend Engineer | Tech Enthusiast</h3>
+<h3 align="center">Java Developer | .NET Developer | Tech Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m passionate about: **Java development,Java Backend**
-- 🌱 I’m learning **Spring Boot, Microservices, and System Design**
-- 💬 Ask me about **Java, OOP, Spring, Hibernate, REST APIs**
+- 🔭 I’m passionate about: **Java development,.NET development**
+- 🌱 I’m learning **Spring Boot, Microservices, and System Design and .NET technologies**
+- 💬 Ask me about **Java, .NET, OOP, Spring, Hibernate, REST APIs**
 - 🧠 Always exploring **clean code practices** and **scalable architecture**
 - ⚡ Fun fact: I enjoy debugging almost as much as writing code
 
